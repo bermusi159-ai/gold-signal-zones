@@ -1,7 +1,7 @@
 num,on,focus,dir,e1,e2,sl,tp
-1,true,false,BUY,4620,4600,4550,4680
-2,false,false,BUY,4620,4600,4550,4680
-3,false,false,SELL,4800,4820,4850,4750
-4,false,false,BUY,4620,4600,4550,4680
-5,false,false,SELL,4800,4820,4850,4750
-6,false,false,BUY,4620,4600,4550,4680
+1,true,true,BUY,4620,4600,4550,4680
+2,true,false,SELL,4765,4773,4778,4760
+3,true,false,BUY,4688,4655,4550,4680
+4,false,false,SELL,4620,4600,4550,4680
+5,false,false,BUY,4620,4600,4550,4680
+6,false,false,SELL,4620,4600,4550,4680
